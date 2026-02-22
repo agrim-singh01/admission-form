@@ -48,4 +48,4 @@ Agrim Singh
 
 ---
 
-⭐ This project was created as part of frontend development learning and practice.
+⭐ This project was created as part of frontend development learning and practice.g
